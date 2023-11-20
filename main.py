@@ -1,2 +1,2 @@
 print("Hello, World!")
-print("Linden")
+print("Formula 1 is better than nascar.")
