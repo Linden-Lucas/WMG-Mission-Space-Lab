@@ -17,6 +17,7 @@ https://www.raspberrypi.com/products/sense-hat/
 Also we have one of these:
 https://coral.ai/products/accelerator/
 
+Do pip install Astro-Pi-Replay
 To run programs with emulated data use "Astro-Pi-Replay run main.py"
 
 Also if anyone is having issues with monospace optimisations you can disable with: 
